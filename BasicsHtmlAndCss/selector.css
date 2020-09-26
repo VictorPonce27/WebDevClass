@@ -1,0 +1,40 @@
+/* Element */
+li {}
+
+/* class */
+.hello {}
+
+/* id */
+#name {}
+
+/* Star */
+* {
+  /* This will affect everything in the page */
+  border: 1px solid lightgrey;
+}
+
+/* Descendant Selector */
+/* takes two or more tags, it will chane them together */
+li a {
+  color: red;
+}
+
+/* Adjason Selector */
+h4+ul {
+  /* elements under a sertain tag */
+  boder: 4px solid red;
+}
+
+/* Attribute Selector */
+/* selects elementos with all same Attribute */
+a[href="http://www.google.com"]{
+  background: blue;
+}
+input[type="checkbox"]{
+
+}
+/* nth of type */
+/* selects every nth of tag */
+li: nth-of-type(3){
+  background: purple;
+}

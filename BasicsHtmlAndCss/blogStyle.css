@@ -1,0 +1,51 @@
+/* border color: #bdc3c7
+date color: 3498db
+h2 color #2c3e50
+font: source sans pro
+ */
+
+body{
+  border: 20px solid #bdc3c7;
+  padding: 20px;
+  max-width: 700px;
+  width: 80%;
+  margin: 20px auto;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+div{
+  background: white;
+  border: 20
+
+}
+
+
+h1{
+  font-family: 'Source Sans Pro', sans-serif;
+  padding-left: 5px;
+  font-size: 2.0rem;
+  color: #2c3e50;
+
+}
+
+hr {
+  display: block;
+  content: "";
+  height: 30px;
+  margin-top: -31px;
+  border-style: solid;
+  border-color: #8c8b8b;
+  border-width: 0 0 1px 0;
+  border-radius: 20px;
+}
+
+.quote{
+  border-left: 5px solid #bdc3c7;
+  padding-left: 5px;
+}
+
+.date{
+  color:  #3498db;
+  text-transform: uppercase;
+  letter-spacing: .2rem;
+}

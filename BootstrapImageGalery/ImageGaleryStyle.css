@@ -1,0 +1,28 @@
+body{
+  padding-top: 70px;
+  /* background:#EEF0F0; */
+  background-image: url('https://images.unsplash.com/photo-1586074299757-dc655f18518c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80');
+}
+p{
+  padding: 10px;
+  text-align: center;
+}
+#title{
+  text-align: center;
+}
+#brand-image{
+  height: 40px;
+  padding-bottom: 10px;
+}
+
+#jumbotron-color{
+  /* background:#57817A;
+  color: #C9CFAF; */
+  background: #C5A27C;
+  color: #5B453B;
+
+}
+
+/* body{
+  background: #FDFAE9;
+} */

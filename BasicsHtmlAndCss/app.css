@@ -1,0 +1,26 @@
+h1 {
+  color: rgba(0, 200, 100, .8);
+  /* border-color: purple;
+  border-width: 5px;
+  border-style: solid; */
+  border: 2px solid coral;
+
+
+}
+/* width
+color
+syle */
+
+h4 {
+  background: rgb(255, 100 , 100);
+}
+
+/* body{
+  background: pink
+} */
+body{
+  background: pink;
+  /* background: url(https://c.stocksy.com/a/H4L900/z9/2225941.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
